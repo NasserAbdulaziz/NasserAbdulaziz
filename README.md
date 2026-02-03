@@ -7,7 +7,7 @@ I focus on **applied research**—building practical defense tools, analyzing li
 
 ---
 
-### 📡 Technical Portfolio
+### Technical Portfolio
 My research is organized into three core repositories:
 
 | **Network Defense** | **Cloud Security** | **Applied Cryptography** |
@@ -17,7 +17,7 @@ My research is organized into three core repositories:
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 * **Languages:** Python (Security Automation), SQL, Bash.
 * **Network Defense:** Cisco IOS, Wireshark, Nmap, TCP/IP Suite.
 * **Security Operations:** Splunk (SIEM), Burp Suite, Metasploit.
@@ -25,10 +25,10 @@ My research is organized into three core repositories:
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 * **Primary Goal:** Deepening Layer 2/3 defense skills through advanced **CCNA** network simulation labs.
 * **Latest Project:** *[Coming Soon: Implementing Zero-Trust Segmentation]*
 * **Status:** Open to opportunities in Network & Cloud Security.
 
 ---
-[🌐 Portfolio Site](https://nasserabdulaziz.github.io) | [Linkedin](www.linkedin.com/in/nasser-alwulayi) | [Email](mailto:Nasseralwulayi@gmail.com)
+[🌐 Portfolio Site](https://nasserabdulaziz.io) | [Linkedin](www.linkedin.com/in/nasser-alwulayi) | [Email](mailto:Nasseralwulayi@gmail.com)
