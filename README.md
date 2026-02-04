@@ -3,7 +3,7 @@
 
 I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
 
-I focus on **applied research**—building practical defense tools, analyzing live network traffic, and documenting vulnerability patterns. My work bridges the gap between theoretical security models and practical infrastructure hardening.
+I focus on **applied research**, building practical defense tools, analyzing live network traffic, and documenting vulnerability patterns. My work bridges the gap between theoretical security models and practical infrastructure hardening.
 
 ---
 
