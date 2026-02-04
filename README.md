@@ -31,4 +31,4 @@ My research is organized into three core repositories:
 * **Status:** Open to opportunities in Network & Cloud Security.
 
 ---
-[🌐 Portfolio Site](https://nasserabdulaziz.io) | [Linkedin](www.linkedin.com/in/nasser-alwulayi) | [Email](mailto:Nasseralwulayi@gmail.com)
+[🌐 Portfolio Site](https://nasserabdulaziz.github.io/)
