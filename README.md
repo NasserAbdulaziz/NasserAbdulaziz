@@ -28,7 +28,7 @@ My research is organized into three core repositories:
 ### Current Focus
 * **Primary Goal:** Deepening Layer 2/3 defense skills through advanced **CCNA** network simulation labs.
 * **Latest Project:** *[Coming Soon: Implementing Zero-Trust Segmentation]*
-* **Status:** Open to opportunities in Network & Cloud Security.
+* **Status:** Open to Co-op & Training opportunities in Network/Cloud Security.
 
 ---
-[🌐 Portfolio Site](https://nasserabdulaziz.github.io/)
+[🌐 Portfolio Site](https://nasserabdulaziz.github.io/) | [LinkedIn](https://www.linkedin.com/in/nasser-alwulayi) | [Email](mailto:NasserAlwulayi@gmail.com)
