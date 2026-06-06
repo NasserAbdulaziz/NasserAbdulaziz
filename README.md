@@ -8,7 +8,7 @@ My work bridges the gap between theoretical security models and practical infras
 ---
 
 ### 🏆 Certifications
-[![Cisco Certified Network Associate](ccna-badge.png)](https://www.credly.com/badges/dd89e914-40e2-4a1b-b0d1-29b9140d8532/public_url)
+[![Cisco Certified Network Associate](ccna.png)](https://www.credly.com/badges/dd89e914-40e2-4a1b-b0d1-29b9140d8532/public_url)
 
 ---
 
